@@ -44,16 +44,16 @@
     "versionPublish": "5.5.2",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/screenshot-2021-12-09-at-7.44.13-pm-128x124.png",
-    "sitemapSwitcher": false,
-    "siteUrl": false,
+    "favicon": "@PROJECT_PATH@/assets/images/black-white-personal-initials-modern-logo-3.31.05-am-128x128.png",
+    "sitemapSwitcher": true,
+    "siteUrl": "http://theadityapatel.com",
     "sitemapSwitcherAuto": "on",
     "publishChangesOnly": false,
-    "mbrsiteDomain": "tsn1n5fvpu",
-    "robotsSwitcher": false,
+    "mbrsiteDomain": "zuo6asakkl",
+    "robotsSwitcher": true,
     "cookiesAlert": false,
     "gdpr": false,
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
     "index.html": {
